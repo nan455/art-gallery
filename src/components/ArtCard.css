@@ -1,0 +1,21 @@
+.card {
+    width: 300px;
+    margin: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    overflow: hidden;
+    text-align: center;
+    background-color: #fff;
+  }
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  .card h3 {
+    margin: 10px 0 5px;
+  }
+  .card p {
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
